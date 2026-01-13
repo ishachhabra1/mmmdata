@@ -50,7 +50,7 @@ Description of tasks
 - Two of the four runs, the participant was given the word and had to retrieve the image, and vice versa for the other two runs/
 
 ### 2-AFC
-Shown two images on the screen and heard a word. “Which image was paired with the word?” 1 for high left image confidence, 2 for low left image confidence, 3 for right image low confidence, and 4 for right image high confidence.
+- Shown two images on the screen and heard a word. “Which image was paired with the word?” 1 for high left image confidence, 2 for low left image confidence, 3 for right image low confidence, and 4 for right image high confidence.
 - Conditions: image-word pairs also fell within the within session and across session conditions
 
 ### Fixation Calibration Task
